@@ -1,13 +1,12 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/3h_-crvW)
 # DeliverUS - Group Project
 
 ## DeliverUS
 
-You can find DeliverUS documentation at: <https://github.com/IISSI2-IS-2025>
+DeliverUS is a delivery app similar to those like Uber Eats or Just Eat, in which each restaurant has the option to post their products at a given price and customers will be able to make orders. We offer two intefaces, the one for owners and the one for customers, more visual.
 
 ## Introduction
 
-This repository includes the complete backend (`DeliverUS-Backend` folder), the `customer` frontend (`DeliverUS-Frontend-Customer` folder), and the `owner` frontend (`DeliverUS-Frontend-Owner` folder). It will serve as the foundation for the group project in the continuous assessment of the course.
+This repository includes the complete backend (`DeliverUS-Backend` folder), the `customer` frontend (`DeliverUS-Frontend-Customer` folder), and the `owner` frontend (`DeliverUS-Frontend-Owner` folder).
 
 ## Environment Setup
 
@@ -70,9 +69,5 @@ This repository includes the complete backend (`DeliverUS-Backend` folder), the 
     ```Bash
     npm run test:backend
     ```
-
-Please note that the base project lacks the functions that need to be implemented during the group project development. As a result, if you run the automated tests on this base project, 64 tests from 2 different test suites will fail.
-
-Once you correctly complete the backend requirements of the group project, the tests should pass successfully.
 
 **Warning: Tests cannot be modified.**

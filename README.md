@@ -2,7 +2,7 @@
 
 ## DeliverUS
 
-DeliverUS is a delivery app similar to those like Uber Eats or Just Eat, in which each restaurant has the option to post their products at a given price and customers will be able to make orders. We offer two intefaces, the one for owners and the one for customers, more visual.
+DeliverUS is a delivery app similar to those like Uber Eats or Just Eat, in which each restaurant has the option to post their products at a given price and customers will be able to make orders. We offer two interfaces, the one for owners and the one for customers, more visual.
 
 ## Introduction
 

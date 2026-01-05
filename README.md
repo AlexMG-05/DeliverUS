@@ -30,7 +30,7 @@ This repository includes the complete backend (`DeliverUS-Backend` folder), the 
 
 ### Backend
 
-* To **recreate migrations and seeders**, open a terminal and run the command:
+* To **recreate migrations and seeders**, open a terminal and run the command (this is done by the previous command):
 
     ```Bash
     npm run migrate:backend
